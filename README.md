@@ -5,7 +5,7 @@
 - It's necessary to assign your clock frequency value to F_CPU symbol.     
 - Call this function and pass a baud rate you want:
 
-      void USART_Init(uint32_t BAUD_RATE);
+      UART_Init(BAUD_RATE);
     
 ## Using:
 - After initialization just use function printf().
