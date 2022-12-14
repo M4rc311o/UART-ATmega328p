@@ -10,5 +10,4 @@
 ## Using:
 - After initialization just use function printf().
    
-- Usage of printf() function is described here:
-> https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm
+- Usage of printf() function is described [HERE](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm)
